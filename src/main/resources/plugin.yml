@@ -2,3 +2,8 @@ name: WhoniverseEssentials
 version: 1.0.0
 author: xTheDoctah
 main: eu.whoniverse.essentials.Main
+commands:
+  tp:
+    description: Teleport!
+    aliases: [teleport, tp]
+    usage: /<command> [player]
