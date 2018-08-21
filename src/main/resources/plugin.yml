@@ -11,3 +11,15 @@ commands:
     description: Teleport to u the player/s!
     aliases: [tphere,tph]
     usage: /<command> [player]
+  tpa:
+    description: Send a teleport request to a player!
+    aliases: [tpa, tpr]
+    usage: /<command> [player]
+  tpayes:
+    description: Accept a teleport request!
+    aliases: [tpyes,tpaccept,tpayes]
+    usage: /<command> [player]
+  tpano:
+    description: Deny a teleport request!
+    aliases: [tpno,tpdeny,tpano]
+    usage: /<command> [player]
