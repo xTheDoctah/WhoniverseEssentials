@@ -7,3 +7,7 @@ commands:
     description: Teleport!
     aliases: [teleport, tp]
     usage: /<command> [player]
+  tphere:
+    description: Teleport to u the player/s!
+    aliases: [tphere,tph]
+    usage: /<command> [player/s]
