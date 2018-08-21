@@ -10,4 +10,4 @@ commands:
   tphere:
     description: Teleport to u the player/s!
     aliases: [tphere,tph]
-    usage: /<command> [player/s]
+    usage: /<command> [player]
