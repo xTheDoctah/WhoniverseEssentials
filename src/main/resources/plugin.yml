@@ -23,3 +23,7 @@ commands:
     description: Deny a teleport request!
     aliases: [tpno,tpdeny,tpano]
     usage: /<command> [player]
+  money:
+    description: Money interaction!
+    aliases: [eco,economy,money]
+    usage: /<command> [player]

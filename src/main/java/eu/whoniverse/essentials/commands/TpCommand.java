@@ -18,7 +18,7 @@ public class TpCommand implements CommandExecutor {
                 case 1:
                     Player player1 = Bukkit.getPlayer(strings[0]);
                     if (player1 == null) {
-                        player.sendMessage("Player not exist or not online");
+                        player.sendMessage("EssPlayer not exist or not online");
                     } else {
                         player.sendMessage("Teleporting...");
                         player.teleport(player1);

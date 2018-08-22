@@ -27,7 +27,7 @@ public class TphereCommand implements CommandExecutor {
                     });
                     break;
             }
-        }else{
+        } else {
             commandSender.sendMessage("Only a player can perform this command!");
         }
         return true;
