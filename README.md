@@ -3,6 +3,8 @@ A Spigot/Craftbukkit essentials plugin.
 
 ## General
 * Minecraft Version: 1.13.x
+* Project Version : 1.13.x build 12
+* Build: Build 12 unstable
 * Spigot Api Version: 1.13-R0.1-SNAPSHOT
 * Bukkit Api Version: 1.13-R0.1-SNAPSHOT
 * Status: Development
